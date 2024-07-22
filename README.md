@@ -1,7 +1,5 @@
 # Comparative Analysis of GAN Models: DCGAN, WGAN, and ACGAN
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=GAN+Comparative+Analysis)
-
 ## Project Description
 
 This project examines three significant Generative Adversarial Network (GAN) models: Deep Convolutional GAN (DCGAN), Wasserstein GAN (WGAN), and Auxiliary Classifier GAN (ACGAN). The analysis focuses on understanding their architectural nuances, performance metrics, and the quality of generated images using the CIFAR-10 dataset.
