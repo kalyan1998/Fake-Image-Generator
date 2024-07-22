@@ -73,7 +73,7 @@ python acgan.py --train --data_dir /path/to/cifar10
 ### 2) Calculating FID Scores
 To calculate FID scores, use the fid_score.py script:
 ```bash
-python fid_score.py --real /path/to/real_images --fake /path/to/generated_images
+python frechet_distance_cal.py --real /path/to/real_images --fake /path/to/generated_images
 ```
 
 ### 3)  Downloading Necessary Files
